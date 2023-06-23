@@ -5,3 +5,6 @@ As a political scientist, you may find the following collection of R and Python 
 ## Geographic data computation
 - [book: Geocomputation with R](https://ereg.ets.org/ereg/public/jump?_p=GRI)
 
+## Blogs
+- https://rweekly.org/#RintheRealWorld
+
