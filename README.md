@@ -24,4 +24,5 @@ quarto::quarto_publish_site(
 )
 ```
 ## Tidy series
-- [tidyPython](www.baidu.com)
+- [tidyPython](https://tidypolars.readthedocs.io/en/latest/)
+- [tidyJulia](https://github.com/TidierOrg/Tidier.jl)
