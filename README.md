@@ -23,4 +23,5 @@ quarto::quarto_publish_site(
   title = "Data Analysis in Action"
 )
 ```
-
+## Tidy series
+- [tidyPython](www.baidu.com)
