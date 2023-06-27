@@ -26,3 +26,7 @@ quarto::quarto_publish_site(
 ## Tidy series
 - [tidyPython](https://tidypolars.readthedocs.io/en/latest/)
 - [tidyJulia](https://github.com/TidierOrg/Tidier.jl)
+
+## Marginal Effects
+- [marginal effects](https://www.andrewheiss.com/blog/2022/05/20/marginalia/)
+- [marginal effects of mixed effect model](https://www.andrewheiss.com/blog/2022/11/29/conditional-marginal-marginaleffects/index.html#marginal-effects-or-effect-of-a-variable-across-clusters-on-average)
