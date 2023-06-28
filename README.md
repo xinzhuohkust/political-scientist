@@ -30,3 +30,6 @@ quarto::quarto_publish_site(
 ## Marginal Effects
 - [marginal effects](https://www.andrewheiss.com/blog/2022/05/20/marginalia/)
 - [marginal effects of mixed effect model](https://www.andrewheiss.com/blog/2022/11/29/conditional-marginal-marginaleffects/index.html#marginal-effects-or-effect-of-a-variable-across-clusters-on-average)
+
+## NLP
+- [wordembedding introduction](https://aistudio.baidu.com/aistudio/projectdetail/6030731?channelType=0&channel=0)
