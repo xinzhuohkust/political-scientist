@@ -37,3 +37,6 @@ quarto::quarto_publish_site(
 
 ## Causal Inference
 - [causal inference with R](https://www.r-causal.org/)
+
+## Blogger
+- [Kurz]https://solomonkurz.netlify.app/
