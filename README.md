@@ -39,4 +39,7 @@ quarto::quarto_publish_site(
 - [causal inference with R](https://www.r-causal.org/)
 
 ## Blogger
-- [Kurz]https://solomonkurz.netlify.app/
+- [Andrew](https://www.andrewheiss.com/)
+- [Kurz](https://solomonkurz.netlify.app/)
+- [Isabella](https://ivelasq.rbind.io/)
+
