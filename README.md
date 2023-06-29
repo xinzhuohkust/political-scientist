@@ -6,7 +6,7 @@ As a political scientist, you may find the following collection of R and Python 
 - [book: Geocomputation with R](https://ereg.ets.org/ereg/public/jump?_p=GRI)
 - [SpatialEcon](https://github.com/mauricio1986/Spbook/blob/main/SpatialEconometrics.pdf)
 
-## Blogs
+## Blog
 - https://rweekly.org/#RintheRealWorld
 
 ## Quarto 
