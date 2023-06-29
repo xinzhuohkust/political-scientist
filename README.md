@@ -4,6 +4,7 @@ As a political scientist, you may find the following collection of R and Python 
 
 ## Geographic data computation
 - [book: Geocomputation with R](https://ereg.ets.org/ereg/public/jump?_p=GRI)
+- [SpatialEcon](https://github.com/mauricio1986/Spbook/blob/main/SpatialEconometrics.pdf)
 
 ## Blogs
 - https://rweekly.org/#RintheRealWorld
@@ -33,3 +34,6 @@ quarto::quarto_publish_site(
 
 ## NLP
 - [wordembedding introduction](https://aistudio.baidu.com/aistudio/projectdetail/6030731?channelType=0&channel=0)
+
+## Causal Inference
+- [causal inference with R](https://www.r-causal.org/)
