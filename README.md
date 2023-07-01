@@ -34,7 +34,8 @@ quarto::quarto_publish_site(
 
 ## NLP
 - [wordembedding introduction](https://aistudio.baidu.com/aistudio/projectdetail/6030731?channelType=0&channel=0)
-- https://smltar.com/
+- [Supervised Machine Learning for Text Analysis in R
+]https://smltar.com/
 
 ## Causal Inference
 - [causal inference with R](https://www.r-causal.org/)
