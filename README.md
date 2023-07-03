@@ -45,6 +45,7 @@ quarto::quarto_publish_site(
 - [Kurz](https://solomonkurz.netlify.app/)
 - [Isabella](https://ivelasq.rbind.io/)
 - [michael decrescenzo](https://mikedecr.netlify.app/)
+- [mockup](https://themockup.blog/)
 
 
 
