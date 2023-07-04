@@ -2,6 +2,9 @@
 
 As a political scientist, you may find the following collection of R and Python resources to be useful for your research and data analysis.
 
+## Data Wrangling
+- [larger than memory data](https://arrow.apache.org/cookbook/r/index.html)
+
 ## Geographic data computation
 - [book: Geocomputation with R](https://ereg.ets.org/ereg/public/jump?_p=GRI)
 - [SpatialEcon](https://github.com/mauricio1986/Spbook/blob/main/SpatialEconometrics.pdf)
