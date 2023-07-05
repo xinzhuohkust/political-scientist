@@ -13,7 +13,7 @@ As a political scientist, you may find the following collection of R and Python 
 - https://rweekly.org/#RintheRealWorld
 
 ## Quarto 
-### Publish
+### publish
 how to publish .qmd file to bookdown:
 ```
 rsconnect::addConnectServer("https://bookdown.org", "bookdown.org")
