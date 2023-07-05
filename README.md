@@ -13,6 +13,7 @@ As a political scientist, you may find the following collection of R and Python 
 - https://rweekly.org/#RintheRealWorld
 
 ## Quarto 
+### Publish
 how to publish .qmd file to bookdown:
 ```
 rsconnect::addConnectServer("https://bookdown.org", "bookdown.org")
@@ -27,6 +28,8 @@ quarto::quarto_publish_site(
   title = "Data Analysis in Action"
 )
 ```
+### shiny
+[shiny and quarto](https://appsilon.com/interactive-quarto-report-translation-tutorial/)
 ## Tidy series
 - [tidyPython](https://tidypolars.readthedocs.io/en/latest/)
 - [tidyJulia](https://github.com/TidierOrg/Tidier.jl)
