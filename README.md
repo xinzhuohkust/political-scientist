@@ -30,6 +30,7 @@ quarto::quarto_publish_site(
 ```
 ### shiny
 [shiny and quarto](https://appsilon.com/interactive-quarto-report-translation-tutorial/)
+[shiynlive](https://quarto-ext.github.io/shinylive/)
 ## Tidy series
 - [tidyPython](https://tidypolars.readthedocs.io/en/latest/)
 - [tidyJulia](https://github.com/TidierOrg/Tidier.jl)
