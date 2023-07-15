@@ -46,6 +46,7 @@ quarto::quarto_publish_site(
 
 ## Causal Inference
 - [causal inference with R](https://www.r-causal.org/)
+- [causal panel data](https://yiqingxu.org/tutorials/panel.html)
 
 ## Blogger
 - [Andrew](https://www.andrewheiss.com/)
@@ -56,5 +57,7 @@ quarto::quarto_publish_site(
 - [Milz](https://beamilz.com/)
 ## Github action with R
 - [github action with R](https://beamilz.com/posts/series-gha/2022-series-gha-1-what-is/en/index.html)
+
+
 
 
