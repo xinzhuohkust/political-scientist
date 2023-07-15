@@ -53,6 +53,7 @@ quarto::quarto_publish_site(
 - [Isabella](https://ivelasq.rbind.io/)
 - [michael decrescenzo](https://mikedecr.netlify.app/)
 - [mockup](https://themockup.blog/)
+- [Milz](https://beamilz.com/)
 
 
 
