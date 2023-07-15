@@ -54,6 +54,7 @@ quarto::quarto_publish_site(
 - [michael decrescenzo](https://mikedecr.netlify.app/)
 - [mockup](https://themockup.blog/)
 - [Milz](https://beamilz.com/)
-
+## Github action with R
+- [github action with R](https://beamilz.com/posts/series-gha/2022-series-gha-1-what-is/en/index.html)
 
 
