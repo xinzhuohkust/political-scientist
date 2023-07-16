@@ -8,6 +8,7 @@ As a political scientist, you may find the following collection of R and Python 
 ## Geographic data computation
 - [book: Geocomputation with R](https://ereg.ets.org/ereg/public/jump?_p=GRI)
 - [SpatialEcon](https://github.com/mauricio1986/Spbook/blob/main/SpatialEconometrics.pdf)
+- [weather data](https://www.wunderground.com)
 
 ## Blog
 - https://rweekly.org/#RintheRealWorld
