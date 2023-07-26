@@ -65,6 +65,7 @@ quarto::quarto_publish_site(
 
 ### table
 - [reactable](https://yuanfan.rbind.io/project/dt-wwc/)
+- [table gallery](https://community.rstudio.com/c/table-gallery/64)
 
 
 
