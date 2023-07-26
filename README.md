@@ -64,7 +64,7 @@ quarto::quarto_publish_site(
 ## Visualization
 
 ### table
-[reactable](https://yuanfan.rbind.io/project/dt-wwc/)
+- [reactable](https://yuanfan.rbind.io/project/dt-wwc/)
 
 
 
