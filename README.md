@@ -15,6 +15,7 @@ As a political scientist, you may find the following collection of R and Python 
 - https://rweekly.org/#RintheRealWorld
 
 ## Quarto 
+- [quarto tips](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
 ### publish
 how to publish .qmd file to bookdown:
 ```
