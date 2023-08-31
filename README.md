@@ -74,3 +74,4 @@ quarto::quarto_publish_site(
 
 ## Spatial Analysis
 - [https://nkaza.github.io/post/
+- [https://lehner.xyz/]
