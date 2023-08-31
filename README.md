@@ -72,3 +72,5 @@ quarto::quarto_publish_site(
 ## STAS
 - [Visualization](https://mlu-explain.github.io/)
 
+## Spatial Analysis
+- [https://nkaza.github.io/post/
