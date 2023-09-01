@@ -78,3 +78,4 @@ quarto::quarto_publish_site(
 
 ## Causal Inference Book
 - https://bookdown.org/mike/data_analysis/regression-discontinuity.html
+- https://tellingstorieswithdata.com/
