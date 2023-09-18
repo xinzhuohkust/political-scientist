@@ -47,6 +47,7 @@ quarto::quarto_publish_site(
 - [Supervised Machine Learning for Text Analysis in R
 ](https://smltar.com/)
 - [wordembedding explaination](https://jalammar.github.io/illustrated-word2vec/)
+- [js](https://explosion.ai)
 
 ## Causal Inference
 - [causal inference with R](https://www.r-causal.org/)
