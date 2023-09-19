@@ -80,3 +80,6 @@ quarto::quarto_publish_site(
 ## Causal Inference Book
 - https://bookdown.org/mike/data_analysis/regression-discontinuity.html
 - https://tellingstorieswithdata.com/
+
+## IRT
+- [IRT in R](https://philippmasur.de/2022/05/13/how-to-run-irt-analyses-in-r/)
