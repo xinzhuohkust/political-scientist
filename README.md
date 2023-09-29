@@ -65,6 +65,7 @@ quarto::quarto_publish_site(
 - https://rfortherestofus.com/2023/05/github-actions/
 
 ## Visualization
+- [hex map](https://andrewpwheeler.com/2019/08/07/making-a-hexbin-map-in-ggplot/)
 
 ### table
 - [reactable](https://yuanfan.rbind.io/project/dt-wwc/)
