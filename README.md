@@ -88,3 +88,6 @@ quarto::quarto_publish_site(
 
 ## mailR
 - [blastula](https://cosx.org/2020/07/send-email-serious-elegant/)
+
+## MAP
+- [tow variable map](https://andrewpwheeler.com/2019/08/07/making-a-hexbin-map-in-ggplot/)
