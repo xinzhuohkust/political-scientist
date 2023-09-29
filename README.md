@@ -84,3 +84,6 @@ quarto::quarto_publish_site(
 ## IRT
 - [IRT in R](https://philippmasur.de/2022/05/13/how-to-run-irt-analyses-in-r/)
 - [book](https://bookdown.org/bean_jerry/using_r_for_social_work_research/item-response-theory.html)
+
+## mailR
+- [blastula](https://cosx.org/2020/07/send-email-serious-elegant/)
