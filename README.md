@@ -91,6 +91,7 @@ quarto::quarto_publish_site(
 
 ## MAP
 - [tow variable map](https://andrewpwheeler.com/2019/08/07/making-a-hexbin-map-in-ggplot/)
+- [dynamic map](https://xiangyun.rbind.io/2022/05/choropleth-map-animation/)
 
 ## SQL
 - [sql in R](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
